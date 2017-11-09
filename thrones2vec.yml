@@ -1,0 +1,75 @@
+name: thrones2vec
+channels:
+- anaconda
+- defaults
+dependencies:
+- asn1crypto=0.22.0=py35h0d675fe_1
+- boto=2.48.0=py35h2cfd601_1
+- bz2file=0.98=py35_0
+- cffi=1.10.0=py35h796c292_1
+- chardet=3.0.4=py35hb6e9ddf_1
+- cryptography=2.0.3=py35hef72dfd_1
+- gensim=3.0.1=py35h6653ba0_0
+- idna=2.6=py35h8605a33_1
+- intel-openmp=2018.0.0=h15fc484_7
+- libgfortran-ng=7.2.0=h9f7466a_2
+- mkl=2018.0.0=hb491cac_4
+- numpy=1.13.3=py35hd829ed6_0
+- pycparser=2.18=py35h61b3040_1
+- pyopenssl=17.2.0=py35h1d2a76c_0
+- pysocks=1.6.7=py35h6aefbb0_1
+- requests=2.18.4=py35hb9e6ad1_1
+- scipy=1.0.0=py35hcbbe4a2_0
+- six=1.11.0=py35h423b573_1
+- smart_open=1.5.3=py35_0
+- urllib3=1.22=py35h2ab6e29_0
+- ca-certificates=2017.08.26=h1d4fec5_0
+- certifi=2017.7.27.1=py35h19f42a1_0
+- cycler=0.10.0=py35hc4d5149_0
+- dbus=1.10.22=h3b5a359_0
+- expat=2.2.4=h6ea4f2b_2
+- fontconfig=2.12.4=h88586e7_1
+- freetype=2.8=h52ed37b_0
+- glib=2.53.6=h5d9569c_2
+- gst-plugins-base=1.12.2=he3457e5_0
+- gstreamer=1.12.2=h4f93127_0
+- icu=58.2=h211956c_0
+- jpeg=9b=h376031c_1
+- libedit=3.1=heed3624_0
+- libffi=3.2.1=h4deb6c0_3
+- libgcc-ng=7.2.0=h7cc24e2_2
+- libpng=1.6.32=hda9c8bc_2
+- libstdcxx-ng=7.2.0=h7a57d05_2
+- libxcb=1.12=h84ff03f_3
+- libxml2=2.9.4=h6b072ca_5
+- matplotlib=2.1.0=py35h2cbf27e_0
+- ncurses=6.0=h06874d7_1
+- openssl=1.0.2m=h8cfc7e7_0
+- pandas=0.21.0=py35hee8c687_1
+- patsy=0.4.1=py35h51b66d5_0
+- pcre=8.41=hc71a17e_0
+- pip=9.0.1=py35h7e7da9d_4
+- pyparsing=2.2.0=py35h041ed72_1
+- pyqt=5.6.0=py35h0e41ada_5
+- python=3.5.4=h0b4c808_22
+- python-dateutil=2.6.1=py35h90d5b31_1
+- pytz=2017.2=py35h9225bff_1
+- qt=5.6.2=h974d657_12
+- readline=7.0=hac23ff0_3
+- seaborn=0.8.0=py35h15a2772_0
+- setuptools=36.5.0=py35ha8c1747_0
+- sip=4.18.1=py35h9eaea60_2
+- sqlite=3.20.1=h6d8b0f3_1
+- statsmodels=0.8.0=py35haa9d50b_0
+- tk=8.6.7=h5979e9b_1
+- tornado=4.5.2=py35hf879e1d_0
+- wheel=0.29.0=py35h601ca99_1
+- xz=5.2.3=h55aa19d_2
+- zlib=1.2.11=ha838bed_2
+- pip:
+  - keras==2.0.4
+  - pyyaml==3.12
+  - smart-open==1.5.3
+  - theano==0.9.0
+prefix: /home/dhingratul/anaconda2/envs/thrones2vec
+
