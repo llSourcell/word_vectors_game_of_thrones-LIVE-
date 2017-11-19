@@ -8,7 +8,7 @@ This is the code for [this](https://www.youtube.com/watch?v=pY9EwZ02sXU) live se
 
 ##Dependencies
 
-run `pip install -r pip-requirements.txt` to install the necessary dependencies. 
+run `pip install -r requirements.txt` to install the necessary dependencies. 
 
 
 ##Usage
